@@ -1,0 +1,10 @@
+D:\Github\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Github\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Github\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\GPAcalculator.csproj.AssemblyReference.cache
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\GPAcalculator.csproj.GenerateResource.cache
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\GPAcalculator.csproj.CoreCompileInputs.cache
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Github\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
